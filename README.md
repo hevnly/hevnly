@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi there, I am heavenly 👋
 
-<!--
-**hevnly/hevnly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an independent software developer. In my free time, I contribute to the Yalusobor project, focusing on backend development and implementing new features.
 
-Here are some ideas to get you started:
+When I'm not coding, I explore other areas of interest:
+- Philosophy & Art
+- Non-fiction reading 
+- Fitness
+- Church service
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### More about my personal life
+
+I am an Orthodox Christian, serving at the altar. I live in Russia.
