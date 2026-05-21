@@ -1,6 +1,6 @@
 ### Hi there, I am heavenly 👋
 
-I am an independent software developer. In my free time, I contribute to the Yalusobor project, focusing on backend development and implementing new features.
+I am an independent software developer. In my free time, I contribute to the [Yalusobor project](https://github.com/Yalusobor), focusing on backend development and implementing new features.
 
 When I'm not coding, I explore other areas of interest:
 - Philosophy & Art
